@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Facebook Poke Back Bot
 // @namespace   fb
-// @description A simple script that automatically pokes back when you receive a poke on Facebook
-// @include     https://www.facebook.com/pokes/?notif_t=poke
+// @description Poke Back 
+// @match     https://www.facebook.com/pokes/?notif_t=poke
 // @version     1
 // @grant       none
 // ==/UserScript==
